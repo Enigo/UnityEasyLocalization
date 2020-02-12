@@ -1,4 +1,4 @@
-Simple way to add localiation to your game.
+Simple way to add localiation for your game.
 
 Feel free to use!
 
